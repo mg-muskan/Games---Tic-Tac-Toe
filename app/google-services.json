@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1051899782433",
+    "project_id": "classic-games-ed300",
+    "storage_bucket": "classic-games-ed300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051899782433:android:8f761f00d6282f36040a60",
+        "android_client_info": {
+          "package_name": "com.pmuskan.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051899782433-026rm7ebib5qjuh83ru4a33f36qet2c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pmuskan.games",
+            "certificate_hash": "bf8ed435c798d7220fd99f0cf29f1052d68e5ac9"
+          }
+        },
+        {
+          "client_id": "1051899782433-e33ounqq223espturq1dtiilmgjspv95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0OSFjl3kCDHlgDUgGJLMaw9muW3p1E90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051899782433-e33ounqq223espturq1dtiilmgjspv95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
